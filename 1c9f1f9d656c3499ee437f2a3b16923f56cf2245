@@ -1,0 +1,1 @@
+{"jobID":"3b1ab189-0525-6208-273c-0d0ee5f1e6c0","spec":{"type":"policy","cause":{"Message":"","User":""},"spec":{"lamanifest:deployment/hello":{"add":{"automated":"true"},"remove":{}}}},"result":null}
